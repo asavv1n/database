@@ -1,6 +1,7 @@
 # Работа с базами данных
-[Работа с SELECT в MySQL](https://docs.google.com/spreadsheets/d/14ANGQRr-ZhXKal-kTUjiEp1ELHxFoKBeCaYa0S6BPDQ/edit?usp=sharing) 
+В рамках курса практировал MySQL запросы для БД [интернет магазина](https://qa.demoshopping.ru/):
 
-[JOIN в MySQL](https://docs.google.com/spreadsheets/d/1qfjLT4BQi2zlxI9uBxlHQOuaUXRk75hRjlckGIgRH-4/edit?usp=sharing) 
+- [Создал](https://docs.google.com/spreadsheets/d/14ANGQRr-ZhXKal-kTUjiEp1ELHxFoKBeCaYa0S6BPDQ/edit?usp=sharing) несколько SELECT запросов с различными параметрами поиска.
+- [Объединял](https://docs.google.com/spreadsheets/d/1qfjLT4BQi2zlxI9uBxlHQOuaUXRk75hRjlckGIgRH-4/edit?usp=sharing) информацию из разных таблиц при помощи SELECT запросов с JOIN 
 
-[Работа с MongoDB](https://docs.google.com/spreadsheets/d/1FXg8QYrGXkUqkJZGDO-GaVLH_DCfDG9K9qQNqd0u36U/edit?usp=sharing) 
+Так же [попрактировался](https://docs.google.com/spreadsheets/d/1FXg8QYrGXkUqkJZGDO-GaVLH_DCfDG9K9qQNqd0u36U/edit?usp=sharing) в работе с MongoDB.
